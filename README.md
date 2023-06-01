@@ -28,8 +28,8 @@ COFFEDelivery é um aplicativo composto por uma área de administração de caf�
 
 ## ✒️ Autores
 
-[Petrus Borges - GitHub](https://github.com/PetrusBorges)
+[André Santos - GitHub](https://github.com/andrensantos99)
 
-[Petrus Borges - Linkedin](https://www.linkedin.com/in/petrusborgesmachado/)
+[André Santos - Linkedin](https://www.linkedin.com/in/andre-santos9900/)
 
-[Petrus Borges - Portfólio](https://petrusborges.vercel.app)
+
